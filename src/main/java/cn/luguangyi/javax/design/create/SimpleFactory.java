@@ -5,7 +5,7 @@ package cn.luguangyi.javax.design.create;
  *
  * 创建模式：简单工厂
  *
- * 三种角色：
+ * 三类角色：
  *      1. 工厂：SimpleFactory
  *      2. 抽象产品：Product
  *      3. 具体产品：ConcreteProduct
