@@ -18,6 +18,8 @@ package cn.luguangyi.javax.design;
  *      1. 负责创建的对象较少，且创建逻辑简单；
  *      2. 客户端不关心如何创建细节，甚至连类名都不关心。
  *
+ * 设计原则：不符合开闭原则，即对扩展开发，对修改关闭。
+ *
  * java 示例：Cipher.getInstance(String s)
  *
  */
