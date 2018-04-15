@@ -10,7 +10,7 @@ import java.util.List;
  *
  * 适用场景：存在一对多关系时，例如一个对象修改后自动通知它的依赖对象。
  *
- * 俩类角色：
+ * 三类角色：
  *      1. 被观察对象：Subject
  *      2. 观测者接口：Observer
  *      3. 具体观测者：ConcreteObserverA、ConcreteObserverB
