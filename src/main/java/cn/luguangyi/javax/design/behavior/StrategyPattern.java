@@ -23,7 +23,7 @@ package cn.luguangyi.javax.design.behavior;
  * java 示例：Arrays.sort() 中的 comparator 参数。
  *
  */
-public class StrategyMode {
+public class StrategyPattern {
 
     public static void main(String[] args) {
 //        Strategy strategy = new ConcreteStrategyA();
